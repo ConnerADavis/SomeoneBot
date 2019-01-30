@@ -1,7 +1,7 @@
 import discord
 import random
 
-TOKEN = "NDMxNTkwODQxNjgxOTY5MTcy.Dag9zw.94c8RF5tfBF8gPxrMZBZF85RzXE"
+TOKEN = "[Redacted for security]"
 
 client = discord.Client()
 
